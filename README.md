@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oliver6565
-- 👀 I’m interested in 前端
-- 🌱 I’m currently learning vue
+- 👀 I’m interested in Magic and Spirit Communication
+- 🌱 I’m currently learning frontend
 - 📫 How to reach me , you can't
 
 <!---
