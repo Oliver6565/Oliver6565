@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oliver6565
 - 👀 I’m interested in Magic and Spirit Communication
-- 🌱 I’m currently learning frontend
+- 🌱 I’m currently learning AI(CV)
 - 📫 How to reach me , you can't
 
 <!---
