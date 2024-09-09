@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oliver6565
+- 👋 Hi, I’m alban
 - 👀 I’m interested in Magic and Spirit Communication
 - 🌱 I’m currently learning AI(CV)
 - 📫 How to reach me , you can't
